@@ -1,5 +1,5 @@
 # kilo-hard.github.io
-:tuff that's on here:
+stuff that's on here:
 
 [SunClock with minor tweaks](https://kilo-hard.github.io/sunclock/)
 
